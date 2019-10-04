@@ -55,7 +55,7 @@ article {
 }
 
 .logo-container {
-  margin: 32px 0 0 32px;
+  margin: 32px 32px 0 32px;
 }
 
 .logo-image {
@@ -66,7 +66,7 @@ article {
 }
 
 .footer-image {
-  background-size: 101%;
+  background-size: cover;
   height: 100%;
   margin: 55px 0 auto;
   background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAzIiBoZWlnaHQ9IjI4NiIgdmlld0JveD0iMCAwIDkwMyAyODYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTk5LjUgMjA4LjVMMTM2LjUgMTY1LjVMMTkxIDE3NkwyMTAgMjI4LjVMMTc0LjUgMjcxLjVMMTE5LjUgMjYxTDk5LjUgMjA4LjVaIiBmaWxsPSIjQzUyNDFDIi8+PHBhdGggZD0iTTE0Ni41IDEzNC41TDAgMzkuNVYyMzMuNUw2MC41IDI3MC41TDE0Ni41IDEzNC41WiIgZmlsbD0iI0YxQ0YzMCIvPjxyZWN0IHg9IjIxMCIgeT0iMTMzIiB3aWR0aD0iMTM5IiBoZWlnaHQ9IjE1MyIgZmlsbD0iYmxhY2siLz48cGF0aCBkPSJNMjU5LjUgMTMyTDI2MiAxMy41TDM2NC41IDc0LjVMMjU5LjUgMTMyWiIgZmlsbD0iI0M1MjQxQyIvPjxjaXJjbGUgY3g9IjQ4NC41IiBjeT0iMTM1LjUiIHI9IjEzNS41IiBmaWxsPSIjRjFDRjMwIi8+PHBhdGggZD0iTTYwNSAxOThMNjUwIDEwMUw3NTUuNSAxMTNMNzc3IDIxOC41TDY4MyAyNzFMNjA1IDE5OFoiIGZpbGw9IiNDNTI0MUMiLz48cGF0aCBkPSJNNzczLjUgMTk3TDgwOCAxNDNMOTAyLjUgMjA0VjI4MUw3NzMuNSAxOTdaIiBmaWxsPSIjRjFDRjMwIi8+PC9zdmc+);
